@@ -5,8 +5,17 @@
     <title>index</title>
 </head>
 <body>
+<h2>인덱스 </h2>
+<div>
+    <div>
+        <h1>Welcome to the StarCafe</h1>
+    </div>
+    <div>
+        <ul>
+            <li><a href="product/list">제품 관리</a></li>
+        </ul>
+    </div>
+</div>
 
-  <h1>Index</h1>
-    <h2>인덱스 </h2>
 </body>
 </html>
